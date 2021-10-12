@@ -1,7 +1,7 @@
 #include "Arduino.h"
 #include "WiFi.h"
 
-#include "TinyMqttPortentaWiFiV2.h"   // https://github.com/hsaturn/TinyMqtt
+#include "tinyMqttPortentaWiFiV2.h"   // https://github.com/hsaturn/TinyMqtt
 
 /** Basic Mqtt Broker
   *
