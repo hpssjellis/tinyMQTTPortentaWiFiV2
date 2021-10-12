@@ -1,4 +1,4 @@
-#include "TinyMqtt.h"
+#include "tinyMQTTPortentaWiFiV2.h"
 #include <sstream>
 
 MqttBroker::MqttBroker(uint16_t port)
