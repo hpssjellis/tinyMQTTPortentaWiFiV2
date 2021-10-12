@@ -1,4 +1,4 @@
-# tinyMQTTPortentaWiFiV2
+# tinyMqttPortentaWiFiV2
 tinyMQTT changed slightly for the Portenta
 
 
