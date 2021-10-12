@@ -1,5 +1,5 @@
 {
-    "name": "TinyMqtt",
+    "name": "tinyMQTTPortentaWiFiV2",
     "keywords": "ethernet, mqtt, m2m, iot",
     "description": "MQTT is a lightweight messaging protocol ideal for small devices. This library allows to send and receive and host a broker for MQTT. It does support MQTT 3.1.1 with QOS=0 on ESP8266 and ESP32 WROOM platfrms.",
     "repository": {
@@ -11,8 +11,6 @@
     "examples": "examples/*/*.ino",
     "frameworks": "arduino",
     "platforms": [
-        "atmelavr",
-        "espressif8266",
-        "espressif32"
+        "PORTENTA_H7_M4"
     ]
 }
